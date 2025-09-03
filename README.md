@@ -15,12 +15,7 @@ In this case, I, the attacker, try to access the administrator panel of the webs
 ### Steps to Carry Out the Attack
 
 1. Clone this repositroy and start the flaks app.
-```
-git clone https://github.com/akshatmiglani/Brute-force-for-login-bypass-on-a-local-website.git
-cd Brute-force-for-login-bypass-on-a-local-website
-pip install flask
-python app.py
-```
+
 2. Launch Burp Suite and access the login panel in Burp Browser.
 ![image](https://github.com/akshatmiglani/Brute-force-for-login-bypass-on-a-local-website/assets/120178102/509c47e6-260a-4407-81cc-5281d7ab06cb)
 
